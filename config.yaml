@@ -1,0 +1,11 @@
+server:
+    dev: "dev.server.com"
+    qa: "qa.server.com"
+    prod: ""
+token_url: "/STS/connect/accesstokenvalidation"
+token_validation_url: "/STS/connect/accesstokenvalidation"
+student_group_url: "/CSG/api/StudentGroup"
+client_id: "juice-app"
+ 
+
+    
